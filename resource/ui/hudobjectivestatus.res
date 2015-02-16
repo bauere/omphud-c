@@ -30,8 +30,8 @@
 			"zpos"			"3"
 			"wide"			"46"
 			"tall"			"20"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 			"textAlignment"		"center"
 			"labelText"		"0:00"
 		}	

@@ -16,8 +16,8 @@
 		"fieldName" "HudWeaponAmmo"
 		"visible" "1"
 		"enabled" "1"
-		"xpos"	"c100"
-		"ypos"	"c54"
+		"xpos"	"c-14"
+		"ypos"	"c120"
 		"wide"	"132"
 		"tall"	"132"
 		
@@ -1378,15 +1378,15 @@
 	{
 		"controlName" "CExLabel"
 		"fieldName" "OmpCrosshairPlusSmall"
-		"font" "CrosshairsSharp15"
-		"fgcolor" "255 0 255 255"
+		"font" "CrosshairsSharpOutline18"
+		"fgcolor" "255 223 0 255"
 		"labelText" "2"
 		"xpos" "c-101"
 		"ypos" "c-100"
 		"wide" "200"
 		"tall" "202"
-		"visible" "0"
-		"enabled" "0"
+		"visible" "1"
+		"enabled" "1"
 		"textAlignment" "center"
 	}
 	

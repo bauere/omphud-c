@@ -40,7 +40,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInClip"
-		"font"			"FuturaHeavy56"
+		"font"			"Futura42"
 		"fgcolor"		"OmpAmmoClip"
 		"xpos"			"0"
 		"ypos"			"37" // omp -- -9 Mac fix.
@@ -63,9 +63,9 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInClipShadow"
-		"font"			"FuturaHeavy56"
+		"font"			"Futura42"
 		"fgcolor"		"OmpShadow"
-		"xpos"			"2"
+		"xpos"			"1"
 		"ypos"			"39"
 		"zpos"			"5"
 		"wide"			"63"
@@ -85,7 +85,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserve"
-		"font"			"Futura32"
+		"font"			"Futura24"
 		"fgcolor"		"OmpAmmoReserve"
 		"xpos"			"67"
 		"ypos"			"49"
@@ -107,7 +107,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserveShadow"
-		"font"			"Futura32"
+		"font"			"Futura24"
 		"fgcolor"		"OmpShadow"
 		"xpos"			"68"
 		"ypos"			"50"

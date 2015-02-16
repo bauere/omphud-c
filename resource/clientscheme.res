@@ -29,16 +29,16 @@ Scheme
 		"OmpDarkestBG"		"30 30 30 255"
 		"OmpWhiteBG"		"225 225 225 225"
 		
-		"OmpHP"				"255 255 255 255"
-		"OmpHPBuff"			"125 225 30 255"
+		"OmpHP"				"66 163 244 255" //"255 255 255 255"
+		"OmpHPBuff"			"255 255 255 255" //"125 225 30 255"
 		"OmpHPLow"			"255 200 30 255"
-		"OmpSpecHP"			"255 255 255 255"
-		"OmpSpecHPBuff"		"125 225 30 255"
+		"OmpSpecHP"			"124 185 232 255" //"255 255 255 255"
+		"OmpSpecHPBuff"		"255 255 255 255" //"125 225 30 255"
 		"OmpSpecHPLow"		"255 200 30 255"
 		
-		"OmpAmmoClip"		"30 225 225 255"
-		"OmpAmmoReserve"	"255 30 255 255"
-		"OmpAmmoMetal"		"125 225 30 255"
+		"OmpAmmoClip"		"66 163 244 255" //"30 225 225 255"
+		"OmpAmmoReserve"	"66 163 244 255" //"255 30 255 255"
+		"OmpAmmoMetal"		"66 163 244 255" //"125 225 30 255"
 		"OmpDemoPipes"		"255 255 255 255"
 
 		"OmpAmmoClipLow1"	"255 30 30 255"
@@ -2497,6 +2497,16 @@ Scheme
 			{
 				"name"		"FuturaStd-Medium"
 				"tall"		"40"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Futura42"
+		{
+			"1"
+			{
+				"name"		"FuturaStd-Medium"
+				"tall"		"42"
 				"additive"	"0"
 				"antialias" "1"
 			}
